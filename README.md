@@ -9,9 +9,10 @@ Hello! My name is Igor, and I am a student at St. Petersburg Polytechnic Univers
 ## Projects
 Here are some of the projects I'm currently working on or have completed:
 
- [gitRep](https://github.com/Amizx2/gitRep)
-   - The main repository
-
+ [Video Watermark & Service Overlay Remover](https://github.com/Amizx2/video-detection-service-information)
+ [Key for toggling speed the playback on YouTube](https://github.com/Amizx2/Key-for-toggling-speed-the-playback-on-YouTube)
+ [Multi-Beam Interferometer Analyzer (OPD)](https://github.com/Amizx2/Multi-Beam-Interferometer-Analyzer-OPD)
+ [Gmail-AutoFill](https://github.com/Amizx2/Gmail-AutoFill)
 
 Feel free to explore my repositories and provide any feedback or suggestions. Contributions are always welcome!
 
