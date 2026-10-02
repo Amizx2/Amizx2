@@ -7,7 +7,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 - 🎓 **Studies:** Radio Engineering student at **Peter the Great St. Petersburg Polytechnic University (SPbPU)**.
 - 💡 **Interests:** Digital Signal Processing (DSP), Interferometry & Optics, Computer Vision, and Desktop Application Development.
